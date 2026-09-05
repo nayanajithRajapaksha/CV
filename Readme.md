@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>&nbsp;
   <a href="https://wa.me/qr/LQBZN7HK5IHRE1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40" alt="WhatsApp"/>
   </a>
 </p>
 
@@ -91,7 +91,7 @@ $ cat profile.txt
 
 | Degree | Institution | Duration | Focus |
 |---|---|---|---|
-| **BSc (Hons) Information Technology** | Sri Lanka Institute of Information Technology (SLIIT) | 2024 – Present | AI Specialization |
+| **BSc (Hons) Information Technology** | Sri Lanka Institute of Information Technology (SLIIT) | 2024 – Present | Specializing In AI & Machine Learning |
 
 ---
 
