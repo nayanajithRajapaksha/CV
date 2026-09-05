@@ -4,7 +4,7 @@ import urllib.request
 # Line 1: Languages and Frameworks
 row1_icons = "python,java,js,ts,html,css,cs,kotlin,dart,react,nextjs,vue,tailwind,nodejs,express,fastapi,flask,spring,dotnet,flutter,sklearn,tensorflow,react-native"
 # Line 2: Software, Tools, Databases, and Platforms
-row2_icons = "postgresql,mysql,mongodb,sqlite,redis,supabase,firebase,docker,git,github,postman,vite,figma,vscode,vercel,androidstudio,jupyter"
+row2_icons = "postgresql,mysql,mongodb,supabase,firebase,docker,git,github,postman,vite,figma,vscode,vercel,androidstudio,anaconda"
 
 def fetch_and_extract_icons(icons_list):
     url = f"https://skillicons.dev/icons?i={icons_list}&perline=40"
