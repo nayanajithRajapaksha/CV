@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="1400" height="670" viewBox="0 0 1400 670"
+     width="1400" height="640" viewBox="0 0 1400 640"
      role="img" aria-label="Profile Card — Chathuranga Nayanajith Rajapaksha">
 
   <defs>
@@ -80,9 +80,9 @@
   </defs>
 
   <!-- BACKGROUND -->
-  <rect width="1400" height="670" rx="16" fill="url(#bgGrad)"/>
+  <rect width="1400" height="640" rx="16" fill="url(#bgGrad)"/>
   
-  <path d="M 0 0 L 1400 0 L 1400 670 L 0 670 Z" fill="none" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1" stroke-dasharray="20 20"/>
+  <path d="M 0 0 L 1400 0 L 1400 640 L 0 640 Z" fill="none" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1" stroke-dasharray="20 20"/>
 
   <!-- TOP BAR -->
   <path d="M 0 16 A 16 16 0 0 1 16 0 L 1384 0 A 16 16 0 0 1 1400 16 L 1400 46 L 0 46 Z" fill="#010409"/>
