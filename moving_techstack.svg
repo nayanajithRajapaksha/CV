@@ -8,7 +8,7 @@
         }
         @keyframes slide-left {
             from { transform: translateX(0); }
-            to { transform: translateX(-6900px); }
+            to { transform: translateX(-6600px); }
         }
         @keyframes slide-right {
             from { transform: translateX(-4500px); }
@@ -161,14 +161,10 @@
 </svg>
 
         </g>
-         
-        <g transform="translate(6600, 0)">
-          undefined
-        </g>
         
   
             </g>
-            <g transform="translate(6900, 0)">
+            <g transform="translate(6600, 0)">
                 
     
         <g transform="translate(0, 0)">
@@ -311,14 +307,10 @@
 </svg>
 
         </g>
-         
-        <g transform="translate(6600, 0)">
-          undefined
-        </g>
         
   
             </g>
-            <g transform="translate(13800, 0)">
+            <g transform="translate(13200, 0)">
                 
     
         <g transform="translate(0, 0)">
@@ -460,10 +452,6 @@
 <path d="M124.228 229L90.623 208.89V90.31L40 120.459L40.123 75.545L124.228 26V229ZM131.784 26V229L165.393 208.89V151.781L190.763 166.895L190.612 127.833L165.393 112.988V90.31L216 120.459L215.878 75.545L131.784 26Z" fill="#FF6F00"/>
 </svg>
 
-        </g>
-         
-        <g transform="translate(6600, 0)">
-          undefined
         </g>
         
   
