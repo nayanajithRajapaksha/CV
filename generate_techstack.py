@@ -1,9 +1,10 @@
 import re
 import urllib.request
 
-# Added missing technologies and extended rows
-row1_icons = "python,java,js,ts,html,css,react,nodejs,express,flask,spring,postgresql,supabase,vercel,dotnet,cs,linux,ubuntu,bash"
-row2_icons = "mongodb,mysql,docker,git,github,postman,vite,tailwind,sklearn,pandas,numpy,tensorflow,figma,vscode,android,apple,aws,redis,sqlite"
+# Line 1: Languages and Frameworks
+row1_icons = "python,java,js,ts,html,css,cs,kotlin,dart,react,nextjs,vue,tailwind,nodejs,express,fastapi,flask,spring,dotnet,flutter,sklearn,tensorflow"
+# Line 2: Software, Tools, Databases, and Platforms
+row2_icons = "postgresql,mysql,mongodb,sqlite,redis,supabase,firebase,docker,git,github,postman,vite,figma,vscode,vercel,linux,ubuntu,bash,apple,aws"
 
 def fetch_and_extract_icons(icons_list):
     url = f"https://skillicons.dev/icons?i={icons_list}&perline=40"
@@ -33,8 +34,6 @@ def get_width(icons_list):
 w1 = get_width(row1_icons)
 w2 = get_width(row2_icons)
 
-# Fix the gap between copies: the original viewBox ends right at the edge of the last icon.
-# To add the normal 44px gap between the end of one copy and start of another:
 offset1 = w1 + 44
 offset2 = w2 + 44
 
@@ -56,7 +55,6 @@ full_svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" 
         }}
     </style>
 
-    <!-- Row 1 moving left -->
     <g transform="translate(0, 0) scale(0.2)">
         <g class="marquee-left">
             <g transform="translate(0, 0)">
@@ -71,7 +69,6 @@ full_svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" 
         </g>
     </g>
 
-    <!-- Row 2 moving right -->
     <g transform="translate(0, 70) scale(0.2)">
         <g class="marquee-right">
             <g transform="translate(-{offset2}, 0)">
