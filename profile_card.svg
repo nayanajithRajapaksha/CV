@@ -124,9 +124,6 @@
   <text x="347" y="615" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">
     <tspan fill="#3fb950">🎓</tspan> BSc (Hons) IT (AI) — SLIIT
   </text>
-  <text x="347" y="645" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">
-    <tspan fill="#ff7b72">📍</tspan> Nuwara-Eliya, Sri Lanka
-  </text>
 
   <g transform="translate(243, 700)">
     <rect x="0" y="0" width="22" height="6" rx="3" fill="#ff5f57"/>
