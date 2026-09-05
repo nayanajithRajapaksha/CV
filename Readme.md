@@ -5,24 +5,30 @@
     <img alt="Chathuranga Nayanajith Rajapaksha — GitHub Profile" src="profile_card.svg" />
   </picture>
 
-  <br/>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/nayanajith-rajapaksha">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-    </a>&nbsp;
-    <a href="mailto:nayanajithrajapaksha75@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
-    </a>&nbsp;
-    <a href="https://github.com/nayanajithRajapaksha">
-      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-    </a>
-  </p>
+</div>
 
-  <br/>
+---
 
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nayanajith-rajapaksha">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:nayanajithrajapaksha75@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://github.com/nayanajithRajapaksha">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
   <img src="moving_techstack.svg" alt="Tech Stack" />
-
 </div>
 
 ---
