@@ -6,8 +6,11 @@
   </picture>
 
 </div>
----
-### 🛠️ Languages & Tools
+
+<br />
+
+### Languages & Tools
+
 <div align="center">
   <img src="moving_techstack.svg" alt="Tech Stack" />
 </div>
