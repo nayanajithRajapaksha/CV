@@ -4,7 +4,7 @@
 </picture>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+Web+Apps;SLIIT+Undergrad+%E2%80%94+AI+Specialization;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="moving_techstack.svg" alt="Tech Stack" />
 </div>
 
 ---
