@@ -1,10 +1,28 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_card.svg" />
-  <img alt="Chathuranga Nayanajith Rajapaksha — GitHub Profile" src="profile_card.svg" />
-</picture>
-
 <div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile_card.svg" />
+    <img alt="Chathuranga Nayanajith Rajapaksha — GitHub Profile" src="profile_card.svg" />
+  </picture>
+
+  <br/>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nayanajith-rajapaksha">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    </a>&nbsp;
+    <a href="mailto:nayanajithrajapaksha75@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+    </a>&nbsp;
+    <a href="https://github.com/nayanajithRajapaksha">
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+    </a>
+  </p>
+
+  <br/>
+
   <img src="moving_techstack.svg" alt="Tech Stack" />
+
 </div>
 
 ---
@@ -34,30 +52,6 @@ $ cat profile.txt
 | 📱 **Phone** | +94 76 083 6384 |
 | 💼 **LinkedIn** | [nayanajith-rajapaksha](https://www.linkedin.com/in/nayanajith-rajapaksha) |
 | 🐙 **GitHub** | [nayanajithRajapaksha](https://github.com/nayanajithRajapaksha) |
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nayanajith-rajapaksha">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:nayanajithrajapaksha75@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://github.com/nayanajithRajapaksha">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,express,flask,spring,postgresql,mongodb,mysql,docker,git,github,postman,vite,tailwind,sklearn,pandas,numpy,tensorflow,figma" />
-</p>
 
 ---
 
@@ -96,13 +90,13 @@ $ cat profile.txt
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanajithRajapaksha&theme=github_dark&hide_border=false&include_all_commits=true&show_icons=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanajithRajapaksha&theme=github_dark&hide_border=false&show_icons=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanajithRajapaksha&theme=github_dark&hide_border=false&layout=compact&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanajithRajapaksha&theme=github_dark&hide_border=false&layout=compact&cache_seconds=86400" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nayanajithRajapaksha&theme=github-dark-blue&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=nayanajithRajapaksha&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -110,7 +104,7 @@ $ cat profile.txt
 ### 📡 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanajithRajapaksha&theme=github-compact&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffa657" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanajithRajapaksha&theme=react&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffa657" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -118,7 +112,7 @@ $ cat profile.txt
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayanajithRajapaksha&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nayanajithRajapaksha&theme=radical&no-frame=false&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
