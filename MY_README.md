@@ -1,42 +1,54 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile_card.svg" />
-  <img alt="nayanajithRajapaksha's GitHub profile card" src="profile_card.svg" />
+  <img alt="Chathuranga Nayanajith Rajapaksha — GitHub Profile" src="profile_card.svg" />
 </picture>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+Web+Apps;SLIIT+Undergrad+%7C+Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+Web+Apps;SLIIT+Undergrad+%E2%80%94+AI+Specialization;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 📋 About Me
 
-```
-🎓  BSc (Hons) Information Technology — SLIIT, Malabe (3rd Year)
-🏢  AI/ML Intern @ EgoTechWorld (July 2026 – Present)
-🌍  Based in Nuwara-Eliya, Sri Lanka
-💡  Passionate about Agentic AI, Machine Learning & Full-Stack Development
-🚀  Always building — from AI prediction systems to full-stack web apps
+```bash
+$ cat profile.txt
+
+  Name     :  Chathuranga Nayanajith Rajapaksha
+  Degree   :  BSc (Hons) Information Technology — AI Specialization
+  Uni      :  Sri Lanka Institute of Information Technology (SLIIT)
+  Year     :  3rd Year, Semester 1
+  Intern   :  AI/ML Engineer @ EgoTechWorld (Pvt) Ltd  [ July 2026 → Present ]
+  Location :  Udapussellawa, Nuwara-Eliya, Sri Lanka 🇱🇰
+  Passion  :  Agentic AI • Machine Learning • Full-Stack Development
+  Quote    :  "Build things that matter. Ship things that work." 🚀
 ```
 
 ---
 
-### 📫 How to reach me
+### 📫 Contact
 
-- 📧 Email: **nayanajithrajapaksha75@gmail.com**
-- 🔗 LinkedIn: **[nayanajith-rajapaksha](https://www.linkedin.com/in/nayanajith-rajapaksha)**
-- 🐙 GitHub: **[nayanajithRajapaksha](https://github.com/nayanajithRajapaksha)**
+| | |
+|---|---|
+| 📧 **Email** | [nayanajithrajapaksha75@gmail.com](mailto:nayanajithrajapaksha75@gmail.com) |
+| 📱 **Phone** | +94 76 083 6384 |
+| 💼 **LinkedIn** | [nayanajith-rajapaksha](https://www.linkedin.com/in/nayanajith-rajapaksha) |
+| 🐙 **GitHub** | [nayanajithRajapaksha](https://github.com/nayanajithRajapaksha) |
 
 ---
 
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nayanajith-rajapaksha"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:nayanajithrajapaksha75@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/></a>
-  &nbsp;
-  <a href="https://github.com/nayanajithRajapaksha"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/nayanajith-rajapaksha">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:nayanajithrajapaksha75@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://github.com/nayanajithRajapaksha">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
 </p>
 
 ---
@@ -44,30 +56,49 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,nodejs,express,flask,dotnet,postgresql,mongodb,mysql,docker,git,github,vite,tailwind,sklearn,pandas,numpy,tensorflow,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,express,flask,spring,postgresql,mongodb,mysql,docker,git,github,postman,vite,tailwind,sklearn,pandas,numpy,tensorflow,figma" />
 </p>
+
+---
+
+### 💼 Experience
+
+**🏢 AI/ML Engineering Intern — EgoTechWorld (Pvt) Ltd**
+*July 2026 – Present | Colombo, Sri Lanka*
+- Developing and deploying machine learning models for real-world business problems
+- Working on data pipelines, model evaluation and AI-powered feature development
+- Collaborating in an Agile team environment on production-grade AI systems
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack | Demo |
+| Project | Description | Stack | Links |
 |---|---|---|---|
-| 🔭 **[DataLens](https://github.com/nayanajithRajapaksha/DataLens)** | AI-powered data visualization agent for HR, Finance & Business upskill analysis | `HTML` `AI` `Charts` | [▶ Live](https://data-lens-mu-drab.vercel.app) |
-| 🤖 **[SovereignQA](https://github.com/nayanajithRajapaksha/SovereignQA)** | Python-based QA system with intelligent question answering | `Python` `NLP` | ⭐ 1 · 🍴 1 |
-| 🍔 **[CampusEats-Frontend](https://github.com/nayanajithRajapaksha/CampusEats-Frontend)** | Smart campus food ordering platform | `React` `.NET` `PostgreSQL` | — |
-| 🏆 **[Mini Hackathon Group-10](https://github.com/nayanajithRajapaksha/mini-hackathon---group-10)** | Hackathon project — Full-Stack web application | `.NET` `React` `PostgreSQL` | [▶ Live](https://mini-hackathon-group-10.vercel.app) |
-| 💬 **[Chatbot](https://github.com/nayanajithRajapaksha/chatbot)** | Python-based intelligent chatbot | `Python` `AI` | — |
-| ☸️ **[Kubernetes Demo](https://github.com/nayanajithRajapaksha/kubernetes-demo)** | Container orchestration demo | `Docker` `K8s` | — |
+| 🍔 **QuickBite** | Smart campus pre-order canteen system — real-time ordering & queue management | `React Native` `Node.js` `Express` `MongoDB` | [GitHub](https://github.com/nayanajithRajapaksha) |
+| 🚗 **Vehicle-IQ** | AI-powered vehicle price prediction app using Gradient Boosting ML model | `Python` `Flask` `scikit-learn` `Pandas` `HTML/CSS` | [GitHub](https://github.com/nayanajithRajapaksha) |
+| 📊 **DataLens** | AI data visualization agent for HR, Finance & Business upskill analysis | `HTML` `JavaScript` `AI Charts` | [▶ Live](https://data-lens-mu-drab.vercel.app) · [GitHub](https://github.com/nayanajithRajapaksha/DataLens) |
+| 🎬 **Movie Recommender** | Collaborative filtering recommendation engine using ML algorithms | `Python` `scikit-learn` `Pandas` `Cosine Similarity` | [GitHub](https://github.com/nayanajithRajapaksha) |
+| 🏘️ **Sell & Buy Properties** | Full-stack real estate listing and management platform | `Java` `HTML` `CSS` `MySQL` `SQL` | [GitHub](https://github.com/nayanajithRajapaksha) |
+| 🏆 **Mini Hackathon** | Award-winning full-stack hackathon project (Group 10) | `.NET` `React` `PostgreSQL` | [▶ Live](https://mini-hackathon-group-10.vercel.app) · [GitHub](https://github.com/nayanajithRajapaksha/mini-hackathon---group-10) |
+
+---
+
+### 🎓 Education
+
+| Degree | Institution | Duration | Focus |
+|---|---|---|---|
+| **BSc (Hons) Information Technology** | Sri Lanka Institute of Information Technology (SLIIT) | 2024 – Present | AI Specialization |
+| **A/L** (Physical Science) | Maliyadewa National School / Local School | 2021 – 2023 | Mathematics, Physics, ICT |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanajithRajapaksha&theme=github_dark&hide_border=false&include_all_commits=true&cache_seconds=86400&show_icons=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanajithRajapaksha&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanajithRajapaksha&theme=github_dark&hide_border=false&include_all_commits=true&show_icons=true&cache_seconds=86400" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanajithRajapaksha&theme=github_dark&hide_border=false&layout=compact&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
@@ -76,10 +107,10 @@
 
 ---
 
-### 📡 Activity Graph
+### 📡 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanajithRajapaksha&theme=github-compact&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffa657" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanajithRajapaksha&theme=github-compact&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffa657" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -92,15 +123,19 @@
 
 ---
 
-### 🧠 What I'm Learning
+### 🧠 Currently Learning
 
 ```python
-current_focus = {
-    "AI/ML"       : ["Agentic AI", "scikit-learn", "TensorFlow", "LLM fine-tuning"],
-    "Backend"     : ["FastAPI", "Spring Boot", "REST APIs"],
-    "Frontend"    : ["Next.js", "TypeScript", "Tailwind CSS"],
-    "DevOps"      : ["Docker", "Railway", "Supabase"],
-    "Goal"        : "Build impactful AI-powered products 🚀"
+nayanajith = {
+    "currently_learning" : [
+        "Agentic AI & LLM Fine-tuning",
+        "FastAPI & Microservices",
+        "Next.js & TypeScript",
+        "Docker & CI/CD Pipelines",
+    ],
+    "building"           : "AI-powered products that solve real problems",
+    "open_to"            : "Internships · Collaborations · Open Source",
+    "fun_fact"           : "I debug ML models at 2am — and enjoy it 🤖",
 }
 ```
 
@@ -108,4 +143,6 @@ current_focus = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nayanajithRajapaksha&label=Profile+Views&color=58a6ff&style=flat" alt="Profile Views" />
+  <br/><br/>
+  <i>⭐ Star my repos if you find them useful!</i>
 </div>
