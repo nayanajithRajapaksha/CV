@@ -9,6 +9,14 @@
 
 ---
 
+### 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="moving_techstack.svg" alt="Tech Stack" />
+</div>
+
+---
+
 ### 🌐 Connect with me
 
 <p align="left">
@@ -20,16 +28,11 @@
   </a>&nbsp;
   <a href="https://github.com/nayanajithRajapaksha">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="https://wa.me/qr/LQBZN7HK5IHRE1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp"/>
   </a>
 </p>
-
----
-
-### 🛠️ Languages & Tools
-
-<div align="center">
-  <img src="moving_techstack.svg" alt="Tech Stack" />
-</div>
 
 ---
 
@@ -89,7 +92,6 @@ $ cat profile.txt
 | Degree | Institution | Duration | Focus |
 |---|---|---|---|
 | **BSc (Hons) Information Technology** | Sri Lanka Institute of Information Technology (SLIIT) | 2024 – Present | AI Specialization |
-| **A/L** (Physical Science) | Maliyadewa National School / Local School | 2021 – 2023 | Mathematics, Physics, ICT |
 
 ---
 
