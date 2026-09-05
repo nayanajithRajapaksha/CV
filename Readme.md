@@ -107,37 +107,27 @@ $ cat profile.txt
 
 ---
 
-### 📡 Contribution Activity
+### 📡 Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanajithRajapaksha&theme=react&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffa657" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayanajithRajapaksha&theme=radical" width="100%" alt="Profile Details" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Language Distribution
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayanajithRajapaksha&theme=radical&no-frame=false&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayanajithRajapaksha&theme=radical" alt="Language Distribution" />
 </p>
 
 ---
 
 ### 🧠 Currently Learning
 
-```python
-nayanajith = {
-    "currently_learning" : [
-        "Agentic AI & LLM Fine-tuning",
-        "FastAPI & Microservices",
-        "Next.js & TypeScript",
-        "Docker & CI/CD Pipelines",
-    ],
-    "building"           : "AI-powered products that solve real problems",
-    "open_to"            : "Internships · Collaborations · Open Source",
-    "fun_fact"           : "I debug ML models at 2am — and enjoy it 🤖",
-}
-```
+<p align="center">
+  <img src="learning_card.svg" width="100%" alt="Currently Learning" />
+</p>
 
 ---
 
